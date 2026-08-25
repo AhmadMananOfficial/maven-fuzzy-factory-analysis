@@ -29,9 +29,7 @@ The product portfolio also expanded from **one product in 2012 to four products 
 
 # Insights Deep Dive
 
-## 1. The Business Has Grown in Both Size and Efficiency
-
-The business showed a strong upward trend over the analysis period.
+## 1. Search Is the Main Customer Acquisition Engine.
 
 ### 📈 Growth Since Launch (Mar 2012 → Feb 2015)
 
@@ -42,43 +40,20 @@ The business showed a strong upward trend over the analysis period.
 | **Conversion rate** | 3.2% → 8.7% |  **+5.5 pts** |
 | **Profit/session** | $0.90 → $3.30 |  **3.7x** |
 
-This shows that the company did not grow simply by attracting more visitors.
+The business is heavily driven by search, especially Google. Google Non-Brand alone brings almost 60% of all our website traffic and generates the largest share of our orders and profit. So, there is no question about where most of our growth is coming from—search is our biggest customer acquisition engine.
 
-> **As traffic increased, the business also became better at converting visitors and generating more value from each website session.**
+But there is an interesting difference between bringing in more people and bringing in the right people.
 
----
+Our Brand campaigns bring less traffic, but the people who arrive through them are much more likely to buy. For example, Bing Brand has the highest conversion rate at 8.9%. This tells us something important: people who already know the brand come to the website with stronger buying intent. In simple terms, Non-Brand campaigns give us scale, while Brand campaigns bring us higher-quality traffic.
 
-## 2. Search Is the Main Customer Acquisition Engine
 
 <img width="1314" height="629" alt="Screenshot 2026-08-25 121945" src="https://github.com/user-attachments/assets/05ed4dcb-6050-4c56-a3b6-bbcef8f9bce4" />
 
-
-> **Search is doing most of the heavy lifting when it comes to bringing potential customers to the website.**
 ---
 
-## 3. Non-Brand Drives Scale, While Brand Traffic Drives Efficiency
+## 2. Mobile Is the Biggest Conversion Opportunity
 
-Not all traffic is equally valuable.
-
-Google Non-Brand delivers the largest volume of visitors and contributes the most total orders and profit. However, Brand campaigns generally have stronger conversion rates and higher profit per visitor.
-
-For example, customers arriving through Brand campaigns already have some awareness of the business or product. As a result, they show stronger purchase intent.
-
-This creates an important balance:
-
-> **Non-Brand search helps the business reach new customers at scale, while Brand traffic brings visitors who are more likely to buy.**
-
-The business should therefore evaluate marketing performance using both **volume and efficiency**, rather than focusing only on traffic.
-
----
-
-## 4. Mobile Is the Biggest Conversion Opportunity
-
-This is the most important finding from the analysis.
-
-Mobile accounts for approximately **31% of total website traffic**, which means the business is successfully attracting a significant number of mobile visitors.
-
-However, mobile generates only around **14% of total orders**.
+At first, mobile traffic looked healthy. About 31% of our visitors come from mobile. But when we followed those visitors through the customer journey, a different picture emerged. Mobile generates 31% of our traffic but only 14% of our orders, with conversion rate of 3.1%. This is very low when we compared it with desktop conversion rate of 8.5%. That is a big gap.
 
 | Metric           |   Mobile |  Desktop |
 | ---------------- | -------: | -------: |
@@ -86,89 +61,52 @@ However, mobile generates only around **14% of total orders**.
 | Conversion Rate  | **3.1%** | **8.5%** |
 | Share of Orders  |      14% |      86% |
 
-Desktop visitors are nearly **three times more likely to convert** than mobile visitors.
+And the problem is not limited to one campaign or one traffic source. We see the same pattern with Google, Bing, Brand, and Non-Brand traffic. Mobile visitors consistently drop off more than desktop visitors throughout the journey, from viewing products, to adding items to the cart, to completing checkout.
 
-The key insight is:
+<img width="992" height="653" alt="Screenshot 2026-08-25 124554" src="https://github.com/user-attachments/assets/01c64138-5b07-469e-8888-a9a002d8234a" />
 
-> **The business does not have a mobile traffic problem. It has a mobile conversion problem.**
+So the real question is probably not, **How do we get more mobile visitors?** We already have them. The better question is:
 
-This means acquiring additional mobile traffic may not be the most effective immediate growth strategy. There is already a large audience visiting from mobile—the opportunity is to help more of them complete a purchase.
+> **Why are so many of them leaving without buying?**
 
----
-
-## 5. Mobile Users Drop Off Throughout the Entire Purchase Journey
-
-To understand why mobile conversion is lower, the customer journey was analyzed from product browsing to completed orders.
-
-| Funnel Stage     |   Mobile |  Desktop |
-| ---------------- | -------: | -------: |
-| Reached Product  |    47.2% |    58.8% |
-| Reached Cart     |    13.6% |    23.0% |
-| Reached Shipping |     8.1% |    16.1% |
-| Reached Billing  |     5.7% |    13.4% |
-| Placed Order     | **3.1%** | **8.5%** |
-
-Mobile performs worse than desktop at every stage.
-
-This is important because it suggests that the issue may not be one isolated problem.
-
-> **The data points toward a broader mobile experience issue rather than a single broken step in the checkout process.**
-
-The highest-priority areas for further investigation are:
-
-* Product page usability
-* Add-to-cart experience
-* Cart navigation
-* Checkout form complexity
-* Mobile page speed
-* Button visibility
-* Mobile-specific technical issues
-* Unexpected costs appearing during checkout
+This is where I would focus next. Improving the mobile page and checkout experience could be one of our biggest growth opportunities because we already have a large number of potential customers visiting from mobile every day. Even a small improvement in mobile conversion could create a meaningful increase in orders without needing to spend more to acquire additional traffic.
 
 ---
 
-## 6. The Social Pilot Campaign Needs Attention
+## 3. The Social Pilot Campaign Needs Attention
 
-The Social Pilot campaign brings visitors to the website, but its performance is weak compared with other major campaigns.
+There is also one area that clearly needs attention: the Social Pilot campaign. It brings visitors, but very few of them become customers, especially on mobile. Before putting more money into that campaign, I would review whether we are targeting the right audience and whether the ad message matches what customers see when they arrive on the website.
 
-It has particularly low:
+| Metric           |   Social Pilot |  Google Non-Brand | Bing Non-Brand |
+| ---------------- | -------: | -------: | ------: |
+| Conversion Rate |      1.1% |      6.7% | 7.0% |
+| Revenue generation  | $3,597 | $1,074,110 | $215,859 |
+| Net profit per session  |      $0.4 |      $2.3 | $2.4 |
 
-* Conversion
-* Revenue generation
-* Net profit per session
-
-The campaign performs especially poorly on mobile.
-
-This does not automatically mean the campaign should be stopped. The next step should be to understand why its traffic is underperforming.
-
-Possible questions include:
+The campaign performs very poor but this does not automatically mean the campaign should be stopped. The next step should be to understand why its traffic is underperforming.Ask questions like:
 
 * Is the campaign targeting the right audience?
 * Does the advertisement match the landing page?
 * Are mobile users receiving a poor experience?
 * Is the campaign attracting visitors with low purchase intent?
 
-> **Before increasing investment, the business should investigate why Social Pilot traffic is failing to convert.**
+---
+
+## 4. Refund rate improved overall, with one anomaly that doesn't fit
+
+The refund rate decreased from an average of approximately 6-7% in 2012 to consistently under 4% by 2015, marking a significant and sustained improvement. However, there were two notable exceptions: the refund rate spiked to 9.2% in August 2014 and 9.3% in September 2014, which were much higher than any other month that year. 
+
+This spike does not align with the typical seasonal trends, as the refund rates in November and December have consistently remained under 4% each year. Therefore, it appears that this spike may have been an isolated issue—potentially due to a bad batch, shipping problems, or a promotion that attracted the wrong customers—rather than a seasonal effect.
+
+<img width="1015" height="567" alt="Screenshot 2026-08-25 134404" src="https://github.com/user-attachments/assets/33281df7-8a70-4d37-a0f5-862dccce76f2" />
 
 ---
 
-## 7. The Business Reduced Its Dependence on One Product
+## 5. The Business Reduced Its Dependence on One Product
 
-In the beginning, the business relied entirely on **Mr. Fuzzy** for revenue.
+In the beginning, the business relied entirely on **Mr. Fuzzy** for revenue. Over time, the company expanded its portfolio by introducing Love Bear, Sugar Panda, and Mini Bear. Still Mr. Fuzzy remained the largest revenue driver, but the newer products gradually created additional sources of revenue. Diversification reduces dependence on a single product and creates more opportunities for customers to purchase different items.
 
-Over time, the company expanded its portfolio by introducing:
-
-* **Love Bear**
-* **Sugar Panda**
-* **Mini Bear**
-
-Mr. Fuzzy remained the largest revenue driver, but the newer products gradually created additional sources of revenue.
-
-This represents an important change in the business model:
-
-> **The company evolved from a one-product business into a more diversified product portfolio.**
-
-Diversification reduces dependence on a single product and creates more opportunities for customers to purchase different items.
+<img width="1290" height="677" alt="Screenshot 2026-08-25 131832" src="https://github.com/user-attachments/assets/3458534e-2c0d-4c2a-b8e0-f06ca4b94394" />
 
 ---
 

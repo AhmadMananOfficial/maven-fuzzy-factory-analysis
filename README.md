@@ -10,7 +10,7 @@ Maven Fuzzy Factory is an e-commerce company that sells stuffed animal products 
 
 The insights from this analysis are intended to support data-driven decisions on **marketing investment, website optimization, and future business growth**.
 
-<img width="1070" height="683" alt="Screenshot 2026-08-24 152731" src="https://github.com/user-attachments/assets/51c149f5-24b6-4895-bb5c-e612842db7c3" />
+<img width="900" height="500" alt="Screenshot 2026-08-24 152731" src="https://github.com/user-attachments/assets/51c149f5-24b6-4895-bb5c-e612842db7c3" />
 
 ---
 

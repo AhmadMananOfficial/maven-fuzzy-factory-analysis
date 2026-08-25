@@ -24,7 +24,7 @@ The biggest opportunity is **mobile conversion**. Mobile generated **30.8% of se
 
 The product portfolio also expanded from **one product in 2012 to four products by late 2014**, creating additional revenue streams and reducing reliance on Mr. Fuzzy. Meanwhile, the Social Pilot campaign was the weakest major campaign, generating only **$0.4 net profit per session**, compared with **$2.3 for Google Non-Brand**.
 
-**Overall, the business has built a strong engine for attracting and converting customers. The next stage of growth should focus on converting existing traffic more effectively—especially on mobile—while continuing to invest in high-performing search channels, strengthening marketing attribution, and addressing underperforming campaigns.**
+**Overall, the business has built a strong engine for attracting and converting customers. The next stage of growth should focus on converting existing traffic more effectively, especially on mobile. While continuing to invest in high-performing search channels, strengthening marketing attribution, and addressing underperforming campaigns.**
 
 ---
 
@@ -97,7 +97,7 @@ The campaign performs very poor but this does not automatically mean the campaig
 
 The refund rate decreased from an average of approximately 6-7% in 2012 to consistently under 4% by 2015, marking a significant and sustained improvement. However, there were two notable exceptions: the refund rate spiked to 9.2% in August 2014 and 9.3% in September 2014, which were much higher than any other month that year. 
 
-This spike does not align with the typical seasonal trends, as the refund rates in November and December have consistently remained under 4% each year. Therefore, it appears that this spike may have been an isolated issue—potentially due to a bad batch, shipping problems, or a promotion that attracted the wrong customers—rather than a seasonal effect.
+This spike does not align with the typical seasonal trends, as the refund rates in November and December have consistently remained under 4% each year. Therefore, it appears that this spike may have been an isolated issue, potentially due to a bad batch, shipping problems, or a promotion that attracted the wrong customers, rather than a seasonal effect.
 
 <img width="1015" height="567" alt="Screenshot 2026-08-25 134404" src="https://github.com/user-attachments/assets/33281df7-8a70-4d37-a0f5-862dccce76f2" />
 

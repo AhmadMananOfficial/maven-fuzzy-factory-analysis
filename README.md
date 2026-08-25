@@ -50,17 +50,8 @@ This shows that the company did not grow simply by attracting more visitors.
 
 ## 2. Search Is the Main Customer Acquisition Engine
 
-Google Non-Brand is the largest source of website traffic, accounting for approximately **60% of all sessions**.
+<img width="1314" height="629" alt="Screenshot 2026-08-25 121945" src="https://github.com/user-attachments/assets/05ed4dcb-6050-4c56-a3b6-bbcef8f9bce4" />
 
-It also generates the highest number of:
-
-* Orders
-* Revenue
-* Net profit
-
-This makes Google Non-Brand the business's primary channel for acquiring new customers at scale.
-
-The analysis of previously untracked traffic also showed that a significant portion of it was associated with Google and Bing referrals, reinforcing the importance of search to the overall business.
 
 > **Search is doing most of the heavy lifting when it comes to bringing potential customers to the website.**
 ---

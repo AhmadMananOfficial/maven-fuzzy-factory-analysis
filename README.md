@@ -2,45 +2,28 @@
 
 ## Background
 
-Maven Fuzzy Factory is an e-commerce business selling stuffed animal products through its website. The business wants to better understand its growth, customer acquisition, website performance, product portfolio, and opportunities to improve conversions.
+Maven Fuzzy Factory is an e-commerce company that sells stuffed animal products directly to customers through its website. As a Data Analyst at the company, I was tasked with analyzing the company's data **March 2012 to March 2015** to understand its overall business performance and identify opportunities for growth. My goal was to answer key business questions around 
+* **Where customers come from?**
+* **Which channels and products perform best?** 
+* **How the business has grown over time?** 
+* **Where customers drop off during their journey?**. 
 
-For this project, I analyzed website sessions, pageviews, orders, products, order items, and refunds using SQL. The goal was not simply to report numbers, but to answer important business questions:
+The insights from this analysis are intended to support data-driven decisions on **marketing investment, website optimization, and future business growth**.
 
-* How has the business grown over time?
-* Which marketing channels bring the most valuable customers?
-* Which campaigns perform well and which need attention?
-* How do desktop and mobile customers behave differently?
-* Where are customers dropping off in the purchase journey?
-* How has the product portfolio contributed to growth?
-
-The analysis covers the period from **March 2012 to March 2015** and focuses on turning raw e-commerce data into actionable business insights.
 
 ---
 
 # Executive Summary
 
-The business has experienced strong growth between 2012 and 2015. However, the most important finding is that growth has not come simply from attracting more visitors.
+The business grew strongly from 2012 to 2015, with monthly sessions increasing from **1,879 to 23,778** and orders  from **60 to 2,067**. Growth was not driven by traffic alone: conversion rate nearly tripled from **3.2% to 8.7%**, while net profit per session increased from **$0.9 to $3.3**.
 
-Over time, the business became better at converting visitors into customers, generating more value from each website session, and expanding from a single-product business into a broader product portfolio.
+**Search was the main acquisition engine**, with Google Non-Brand generating **59.8% of total sessions** and the highest overall volume of orders and profit. Brand campaigns brought less traffic but its conversion rate is awesome, with Bing Brand reaching an **8.9% conversion rate**, showing the value of high-intent customers.
 
-**Search is the main engine driving customer acquisition**, with Google Non-Brand generating the largest volume of traffic, orders, and profit. Brand campaigns, while smaller in volume, attract higher-intent visitors who are more likely to convert.
+The biggest opportunity is **mobile conversion**. Mobile generated **30.8% of sessions but only 14.0% of orders**, converting at just **3.1% compared with 8.5% on desktop**. Funnel analysis showed that mobile users underperformed at every stage of the purchase journey, pointing to a broader mobile experience issue rather than a single checkout problem.
 
-The biggest opportunity identified in the analysis is the **mobile experience**. Mobile accounts for approximately **31% of website traffic but only 14% of orders**. Desktop visitors convert at **8.5%**, compared with only **3.1% for mobile**. Further funnel analysis shows that mobile users underperform at every stage of the purchase journey.
+The product portfolio also expanded from **one product in 2012 to four products by late 2014**, creating additional revenue streams and reducing reliance on Mr. Fuzzy. Meanwhile, the Social Pilot campaign was the weakest major campaign, generating only **$0.4 net profit per session**, compared with **$2.3 for Google Non-Brand**.
 
-The business is successfully bringing customers to the website. The next major opportunity is to improve how effectively those visitors—particularly mobile users—are converted into customers.
-
-### Key Findings
-
-* 📈 The business grew significantly in both traffic and orders over time.
-* 🎯 Conversion improved from approximately **3% in the early period to nearly 9% at its peak**.
-* 💰 Net profit per session increased from around **$0.9 to more than $3**.
-* 🔍 Google Non-Brand is the largest customer acquisition channel, generating approximately **60% of total sessions**.
-* ⭐ Brand campaigns generate higher conversion rates, indicating stronger customer intent.
-* 📱 Mobile generates approximately **31% of traffic but only 14% of orders**.
-* 💻 Desktop converts at **8.5%**, compared with **3.1% on mobile**.
-* 🛒 Mobile users drop off more than desktop users throughout the entire purchase journey.
-* 🧸 The business expanded from relying on one main product to generating revenue from multiple products.
-* ⚠️ The Social Pilot campaign generates low-value traffic and should be reviewed before further investment.
+**Overall, the business has built a strong engine for attracting and converting customers. The next stage of growth should focus on converting existing traffic more effectively—especially on mobile—while continuing to invest in high-performing search channels, strengthening marketing attribution, and addressing underperforming campaigns.**
 
 ---
 
@@ -50,19 +33,14 @@ The business is successfully bringing customers to the website. The next major o
 
 The business showed a strong upward trend over the analysis period.
 
-In **March 2012**, the website generated:
+### 📈 Growth Since Launch (Mar 2012 → Feb 2015)
 
-* **1,879 sessions**
-* **60 orders**
-* **3.2% conversion rate**
-* **$0.9 net profit per session**
-
-By **February 2015**, performance had improved to:
-
-* **23,778 sessions**
-* **2,067 orders**
-* **8.7% conversion rate**
-* **$3.3 net profit per session**
+| Metric | Then → Now | Growth |
+|---|---|:---:|
+| **Monthly Sessions** | 1,879 → 23,778 |  **12.7x** |
+| **Monthly Orders** | 60 → 2,067 |  **34.5x** |
+| **Conversion rate** | 3.2% → 8.7% |  **+5.5 pts** |
+| **Profit/session** | $0.90 → $3.30 |  **3.7x** |
 
 This shows that the company did not grow simply by attracting more visitors.
 

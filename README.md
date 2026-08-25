@@ -133,10 +133,12 @@ Google Non-Brand is the primary source of customer acquisition and should contin
 ## 3. Investigate Social Pilot Before More Investment
 
 The Social Pilot campaign currently produces weak returns compared with other channels. Before increasing investment, investigate:
+
 * Audience targeting
 * Ad messaging
 * Landing-page relevance
 * Device-specific performance
+
 If the campaign cannot improve its conversion efficiency, budget may be better allocated to stronger-performing channels.
 
 ---

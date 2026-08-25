@@ -115,10 +115,7 @@ In the beginning, the business relied entirely on **Mr. Fuzzy** for revenue. Ove
 Based on the analysis, I would recommend the following actions.
 
 ## 1. Make Mobile Optimization the Top Priority
-
-The business already receives a significant amount of mobile traffic, but the conversion rate is substantially below desktop.
-
-Focus on investigating and improving:
+The business already receives a significant amount of mobile traffic, but the conversion rate is substantially below desktop. Focus on investigating and improving:
 
 * Product page experience
 * Add-to-cart process
@@ -129,69 +126,21 @@ Focus on investigating and improving:
 
 > **The biggest immediate opportunity is not necessarily getting more mobile visitors—it is converting more of the mobile visitors we already have.**
 
----
-
 ## 2. Continue Investing in High-Performing Search Channels
 
-Google Non-Brand is the primary source of customer acquisition and should continue to be a major focus.
+Google Non-Brand is the primary source of customer acquisition and should continue to be a major focus. At the same time, Brand campaigns should be protected because they bring highly qualified visitors with stronger purchase intent.
 
-At the same time, Brand campaigns should be protected because they bring highly qualified visitors with stronger purchase intent.
+## 3. Investigate Social Pilot Before More Investment
 
-The strategy should balance:
-
-**Scale → Non-Brand Search**
-
-with
-
-**Efficiency → Brand Search**
-
----
-
-## 3. Investigate Social Pilot Before Scaling
-
-The Social Pilot campaign currently produces weak returns compared with other channels.
-
-Before increasing investment, investigate:
-
+The Social Pilot campaign currently produces weak returns compared with other channels. Before increasing investment, investigate:
 * Audience targeting
 * Ad messaging
 * Landing-page relevance
 * Device-specific performance
-
 If the campaign cannot improve its conversion efficiency, budget may be better allocated to stronger-performing channels.
-
----
-
-## 4. Continue Expanding and Evaluating the Product Portfolio
-
-The product portfolio has helped reduce the business's dependence on Mr. Fuzzy.
-
-Future product decisions should continue to evaluate:
-
-* Revenue contribution
-* Profitability
-* Product adoption after launch
-* Cross-selling opportunities
-
-Mr. Fuzzy remains the core product, but additional products provide important opportunities for future growth.
-
----
-
-## 5. Improve Marketing Attribution
-
-A significant amount of traffic was initially classified as Unknown because UTM information was missing.
-
-Improving campaign tagging would allow the business to:
-
-* Better measure marketing performance
-* Identify true traffic sources
-* Allocate budget more accurately
-* Make stronger decisions about campaign investment
-
-> **Better tracking leads to better marketing decisions.**
 
 ---
 
 # Final Takeaway
 
-> **The business has built a strong engine for growth. Search is bringing customers to the website, conversion has improved over time, and the product portfolio has expanded beyond a single product. The biggest opportunity now is to get more value from the traffic the business already has—especially by improving the mobile customer experience.**
+> **We have already built a strong engine for bringing customers to the business; the next stage of growth is making sure more of those customers, especially mobile users actually complete the journey and buy.**
